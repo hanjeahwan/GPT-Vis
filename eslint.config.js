@@ -25,6 +25,7 @@ export default tseslint.config(
       '**/.idea/**',
       './*.?*.ts',
       'bindings/**',
+      'mcp-server/**',
 
       // Files of the build
       'dist/*',
